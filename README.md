@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rator02
-- 👀 I’m interested in Thermal Engineering, FEM, Numerical Methods and Machine Learning
-- 🌱 I’m currently doing my Masters in Computer Aided Conception in Mechanical Engineering from RWTH Aachen University
-- 💞️ I’m looking to collaborate on anything through which I can gain some experince in coding for Thermal engineering.
+- 👀 I’m interested in Computational Fluid Dynamics (OpenFOAM, Star CCM+ and ANSYS are some of my tools for the process), Thermal Engineering, FEM, Numerical Methods and Machine Learning
+- 🌱 I’ve completed my Maters in Computer Aided Conception in Mechanical Engineering from RWTH Aachen University and currently working as a CFD research Assistant in Hochschule Emden.
+- 💞️ I’m looking to collaborate on anything through which I can gain some experince in coding for CFD/CAE, Thermal engineering.
 
 <!---
 Rator02/Rator02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
